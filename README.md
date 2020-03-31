@@ -1,5 +1,5 @@
 # Leaf-Detector
-## Keras API implemented in Python for Neural Net
+## Convolutional Neural Network implemented in Python
 ### Tools used
 - Python
 - OpenCV
